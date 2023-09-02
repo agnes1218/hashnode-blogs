@@ -1,8 +1,8 @@
 ---
-title: "Deployment of microservices on k8s (Flask-app Mongodb)"
+title: "Project - Deployment of microservices on k8s (Flask-app Mongodb)"
 datePublished: Sat Sep 02 2023 17:28:53 GMT+0000 (Coordinated Universal Time)
 cuid: clm2asvw7000209jr8akb431k
-slug: deployment-of-microservices-on-k8s-flask-app-mongodb
+slug: project-deployment-of-microservices-on-k8s-flask-app-mongodb
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693672372242/c55b5096-1b16-4ed9-9780-034a624fd7de.png
 tags: microservices, deployment, kubernetes, devops, trainwithshubham
 

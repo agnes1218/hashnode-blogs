@@ -8,6 +8,8 @@ tags: devops, terraform, state-management, trainwithshubham, terraweekchallenge
 
 ---
 
+![How to Lock Terraform State with S3 bucket in DynamoDB. | by Christopher  Quiles | Medium](https://miro.medium.com/v2/resize:fit:1148/1*fTy-c4tMqwtsMfZsX0ePLw.png align="left")
+
 ## Task 1: Importance of Terraform State
 
 📚 **Research**: Dive into the importance of Terraform state in managing infrastructure. Discover how Terraform state helps track the current state of resources and ensures smooth infrastructure provisioning and management.
@@ -103,7 +105,7 @@ An AWS DynamoDB table (`aws_dynamodb_table`) and an AWS S3 bucket (`aws_s3_bucke
     * `default = "us-east-1"`: It provides a default AWS region of "us-east-1." You can override this value when using the variable to specify a different region.
         
 
-2**. Initialize Terraform Configuration**
+2\*\*. Initialize Terraform Configuration\*\*
 
 Initialize Terraform in the directory where your configuration is located.
 
